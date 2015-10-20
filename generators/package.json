@@ -1,0 +1,25 @@
+{
+  "name": "generator-jetpug",
+  "version": "0.0.1",
+  "description": "A test generator for Yeoman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengrunfeld/generator-jetpug.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Ben Grunfeld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengrunfeld/generator-jetpug/issues"
+  },
+  "homepage": "https://github.com/bengrunfeld/generator-jetpug#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.20.3"
+  }
+}
